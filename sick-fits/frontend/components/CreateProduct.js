@@ -24,7 +24,6 @@ export default function CreateProduct() {
               required
               id="image"
               name="image"
-              value={inputs.image}
               onChange={handleChange}
             />
           </label>
